@@ -1,0 +1,9 @@
+<h1>Docs</h1>
+<h2>Navigation</h2>
+<h3>Navbar</h3>
+<p>Props:</p>
+<ul>
+    <li>Logo</li>
+    <li>Logotext</li>
+    <li>menu</li>
+</ul>
